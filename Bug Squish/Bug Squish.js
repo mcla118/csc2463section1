@@ -23,7 +23,7 @@ function setup() {
 function preload() {
   //Loads all sprite sheets
   bug = loadImage("../Assets/bug.png");
-  deadBug = loadImage("../Assets/deadbug.png");
+  deadBug = loadImage("../Assets/deadBug.png");
   
 }
 
