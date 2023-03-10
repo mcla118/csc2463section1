@@ -53,8 +53,8 @@ let waitMusic = new Tone.Sequence((time, note) => {
   }
 }, ['C1', null, 'E1', null, 'A0', null,'C1', null, 'F0', null, 'A0', null, 'G0', null, 'B0', null]);
 
-synthA.volume.value = -40;
-synthB.volume.value = -20;
+synthA.volume.value = -10;
+synthB.volume.value = -10;
 
 Tone.Transport.bpm.value = 120;
 Tone.Transport.start();
