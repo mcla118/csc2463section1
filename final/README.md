@@ -13,6 +13,8 @@ As the projects progressed, I pushed myself outside of my comfort zone and tried
 # Kaleidoscope Keys
 Kaleidoscope Keys is an interactive sound program that creates fun, funky shapes on the user's screen, while blinking a light while playing.
 
+See Youtube video of the fully working project: https://youtu.be/pWqWlZeKsSU
+
 	Project Overview:
 	Learning from each previous project, I wanted to create a program that was more artistic because I was drawn to the
 	graphics unit. I played with these shapes to create 4 entertaining shapes: hearts, octagon, square, and circle. When
